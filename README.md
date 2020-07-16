@@ -8,7 +8,7 @@ Automated skin lesion analysis is very crucial in clinical practice, as skin can
 - Python 3.6.8
 - keras 
 ## Usage
-1.  download data from [xx](http://xx) and [Resnet101 model](http://xx) .
+1.  download data from [skin_2017_withsupplydata](https://drive.google.com/drive/folders/1YfxFQb75elllGRv4EL0TNguU7Y3sTAdH?usp=sharing) and [Resnet101 model](https://drive.google.com/drive/folders/1cm2Box2XJmspzoIIMqXIbWNhNeXrK9b_?usp=sharing) .
 2.  train with SA selection metric
     ```
     ./src/train_ud0.xSelect.sh 
